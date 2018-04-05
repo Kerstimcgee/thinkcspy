@@ -49,7 +49,7 @@ Here are a few ways you can do this:
 
 These three restatement strategies are not equal. In fact, this list is in order of *increasing effectiveness*. Restating a problem to yourself in your head is useful, but leaves plenty of opportunity for some of the details of the problem to go undiscovered. Something can sound nice and clear to us, only to later seem to become more complicated. In such situations, it's usually not the case that the complexity of the situation has increased, but just that we have uncovered some previously unnoticed complexity.
 
-On the other hand, by stating the problem out loud to another person, your brain will be forced to work through it in new ways. There's a maxim that teachers sometime quote:
+On the other hand, by stating the problem out loud to another person, your brain will be forced to work through it in new ways. There's a maxim that teachers sometimes quote:
 
   "You don't really understand something until you can teach it to somebody else."
 
